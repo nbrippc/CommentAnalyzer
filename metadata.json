@@ -1,0 +1,5 @@
+{
+  "name": "NBRI Survey Comment Analyzer",
+  "description": "An application to analyze customer and employee survey comments for themes, sentiment, and actionable insights using the Gemini API. It provides improvement recommendations for the top insights.",
+  "requestFramePermissions": []
+}
